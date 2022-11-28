@@ -63,7 +63,7 @@ RUN mkdir -p /home/app
 COPY . /home/app 
 // this will be created outside container on the host
 	 
-CMD["node","server.js"]	
+CMD ["node","server.js"]	
 
 ```
 **Image Naming in Docker registries**
