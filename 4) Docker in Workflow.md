@@ -31,9 +31,12 @@ mongo-express
 version: '3'
 services:
   mongodb:
+# starts with container name 
     image: mongo
+# image
     ports:
      - 27017:27017
+# host:container
     environment:
      - MONGO_INITDB_ROOT_USERNAME=admin
      - MONGO_INITDB_ROOT_PASSWORD=password
