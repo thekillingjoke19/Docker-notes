@@ -1,11 +1,11 @@
-a) What is docker ?
-b) Docker Vs Virtual Machine
-c) Docker Installation
-d) Main Commands
-e) Debugging a Container
-f) Workflow with docker
-g) Docker Compose 
-h) Dockerfile
-i) Private docker Repo on AWS 
-j) Deploy containezed app 
-k) Different volume types
+1) What is docker ?
+2) Docker Vs Virtual Machine
+3) Docker Installation
+4) Main Commands
+5) Debugging a Container
+6) Workflow with docker
+7) Docker Compose 
+8) Dockerfile
+9) Private docker Repo on AWS 
+10) Deploy containezed app 
+11) Different volume types
