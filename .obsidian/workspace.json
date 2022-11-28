@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "bd80e3100579f344",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4c9285858977b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21051544a3e22e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Docker in Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bba96a49d270148",
+    "type": "split",
+    "children": [
+      {
+        "id": "097573921a6fe5db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e921df9794340a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f52f7ec3b37cbc6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2497376280af5dff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "675d9c2840a164b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e64c46bdbebd07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aea92c57f60a1f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4) Docker in Workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "868b6ced843a75bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4) Docker in Workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "520b12ec02b80a6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bcd9b2455023a91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4) Docker in Workflow.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "21051544a3e22e72",
+  "lastOpenFiles": [
+    "3) Docker Commands.md",
+    "4) Docker in Workflow.md",
+    "2022-11-27.md"
+  ]
+}
